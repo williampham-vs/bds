@@ -1,0 +1,31 @@
+module.exports = {
+  enumData: {
+    pricings: ["Thường", "Đồng", "Bạc", "Vàng", "Kim Cương"],
+    postStatus: ["Còn trống", "Đang đàm phán", "Đã bàn giao"],
+    propetyType: [
+      "Căn hộ chung cư",
+      "Nhà Mặt Phố",
+      "Nhà riêng",
+      "Nhà phố thương mại",
+      "Biệt thự",
+      "Đất nền",
+      "Bán đất",
+      "Trang trại",
+      "Khu nghỉ dưỡng",
+      "Kho",
+      "Nhà xưởng",
+      "Khác",
+    ],
+    listingType: ["Bán", "Cho thuê"],
+    directions: [
+      "Đông - Bắc",
+      "Tây - Nam",
+      "Đông - Nam",
+      "Tây - Bắc",
+      "Đông",
+      "Tây",
+      "Nam",
+      "Bắc",
+    ],
+  },
+};
